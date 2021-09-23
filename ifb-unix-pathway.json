@@ -1,6 +1,7 @@
 {
     "title": "Unix Introduction - DP",
     "description": "Sessions to learn the basics about UNIX",
+    "icon": "fa-keyboard",
     "courses": [
       {
         "course_id": "session04",
